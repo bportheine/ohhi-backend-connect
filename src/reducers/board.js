@@ -1,5 +1,3 @@
-// src/reducers/board.js
-
 import { CREATE_GAME, MOVE } from '../actions/types'
 
 const emptyBoard = [

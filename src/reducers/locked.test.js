@@ -1,5 +1,3 @@
-// src/reducers/locked.test.js
-
 import locked from './locked'
 import { CREATE_GAME } from '../actions/types'
 
@@ -40,4 +38,3 @@ describe('locked reducer', () => {
     })
   })
 })
-

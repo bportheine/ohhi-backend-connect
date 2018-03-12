@@ -1,5 +1,3 @@
-// src/actions/game.js
-
 import { CREATE_GAME, MOVE } from './types'
 import { fillBoard } from '../lib/game'
 

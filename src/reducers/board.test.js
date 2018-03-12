@@ -1,5 +1,3 @@
-// src/reducers/board.test.js
-
 import board from './board'
 import { CREATE_GAME, MOVE } from '../actions/types'
 

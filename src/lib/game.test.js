@@ -1,5 +1,3 @@
-// src/lib/game.test.js
-
 import {
 threeOrMoreInARow,
 numberOfValues,

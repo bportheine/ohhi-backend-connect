@@ -1,4 +1,3 @@
-// src/reducers/locked.js
 import { CREATE_GAME } from '../actions/types'
 
 export default (state = [], { type, payload } = {}) => {
